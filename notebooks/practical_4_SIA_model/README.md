@@ -18,7 +18,7 @@ where $\dot{b_i}$ is the ice-equivalent rate of accumulation on the ice sheet su
 
 There are three different levels of notebook. Select the level you feel comfortable with based on the descriptions below. 
 
-** Be ambitous! You can always look at the other notebooks if you get stuck!*
+**Be ambitous! You can always look at the other notebooks if you get stuck!**
 
 ### Level 1: A working code with a few crucial lines removed.
 This version of the notebook has a few lines missing that you will need to write in order to get the model running and plot the results. 
