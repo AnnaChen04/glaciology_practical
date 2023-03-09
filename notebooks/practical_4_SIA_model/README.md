@@ -1,6 +1,6 @@
 # Practical 4: ice sheet modelling
 
-This directory contains notebooks written to solve the ice sheet model equations derivedin lectures 6 and 7. 
+This directory contains notebooks written to solve the ice sheet model equations derived in lectures 6 and 7. 
 
 ## The model
 
@@ -14,7 +14,7 @@ $$
 
 where $\dot{b_i}$ is the ice-equivalent rate of accumulation on the ice sheet surface, $x$ is the horizontal coordinate, $H$ is the ice thickness, $t$ is time, $q$ is the depth-intergrated flux per unit width (hereafter, flux), $A$ is the flow parameter from the flow law, $n$ is the exponent from the flow law, $\rho$ is the density of ice, $g$ is acceleration due to gravity, and $\alpha$ is the surface slope $\left(= - \frac{\partial H}{\partial x}\right)$.
 
-## The notebooks
+## The incomplete notebooks
 
 There are three different levels of notebook. Select the level you feel comfortable with based on the descriptions below. 
 
@@ -29,5 +29,9 @@ This version of the notebook has a many lines missing that you will need to writ
 ### Level 3: The structure of a working code, with all the code removed. 
 This version of the notebook contains all the text cells and headings, but none of the actual code. You will need to add one or many lines of code to every empty cell in this notebook. 
 
-### Level 4: start with a blanck notebook
+### Level 4: start with a blank notebook
 Start from scratch with a blank notebook and write all you own notes and code. 
+
+## The complete code
+
+P4_full.ipynb is the complete version of this notebook containing working code to solve the model..
