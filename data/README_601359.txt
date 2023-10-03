@@ -1,0 +1,37 @@
+USAP-DC Dataset# 601359
+2020-07-13
+https://api.datacite.org/dois/10.15784/601359
+
+abstract:
+Data archived here were used to create the Roosevelt Island Ice Core gas age and ice age time scales.  Data include methane concentrations, nitrogen and oxygen isotope ratios of N2 and O2, total air content and the D/H ratio of the ice.  Derived products included here include ice age and gas age time scales. 
+
+Instruments and devices:
+Methane and total air content:  gas chromatography using flame ionization detector and custom made gas extraction system. 
+Isotopic composition of N2 and O2: stable isotope mass spectrometer and custom made gas extraction system.  
+D/H ratio of ice:  Off axis integrated cavity optical spectroscopy. 
+
+Acquisition procedures:
+The RICE discrete methane record was measured at Oregon State University (OSU). A total of 702 samples were measured at 583 distinct depths between 60-753 m. Samples from 406 depths were measured between 60 and 670 m, dating from 1970 C.E. to 11.87 ka, with a mean sample spacing of 28.75 years. Between 670 and 718.13 m the record spans 11.87 to 29.9 ka; 96 samples in this interval provide age resolution of 189 years. Age resolution decreases significantly for deeper depths. The interval from 718.53 to 746.00 m corresponds to 30.1-64.6 ka with a mean resolution of 548 years. The deepest dated ice is at 752.95 m with an age of 83 ka (approx. 2 ka). Methane was also measured continuously with a laser spectroscopy technique during two separate continuous flow analysis (CFA) campaigns at GNS Science (Gracefield, New Zealand) in 2013 and 2014. The CFA methane record was affected by variability of air flow to the measurement instrument and fractures that allowed drill fluid and modern air into the melt head. Exclusion of these artifacts caused significant gaps in the record, particularly at depths below 676 m (12.6 ka). We consider the CFA record to be a supplement to the more robust but lower resolution discrete data. Between 29.9-59.1 ka, the CFA record is critical for establishing age control. Below approx. 746 m (64.6 ka), the CFA data are difficult to interpret because of gaps in the record, uncertainty in measurement depth, and uncertainty in methane calibration.  
+
+Total air content (TAC) is defined as the amount trapped air in a sample, reported here in units of cc air at STP/g ice. TAC was measured at OSU as part of the methane concentration measurement. TAC is influenced by accumulation and temperature, total summer insolation, thermal gradients in the firn from multi-annual climate trends, and surface air pressure. Preparation of ice samples causes loss of air from bubbles which intersect the surface of the sample, an effect known as the cut-bubble effect. The amount of air lost due to the cut-bubble effect depends on the geometry of the sample and the bubble size. For bubble size, we assume that the bubble diameter at the bubble-close-off depth is the same as at the bubble-close-off depth at WAIS Divide and that the diameter shrinks exponentially to zero at the bubble-clathrate-transition depth (763 m). Ice samples were cut to uniform shapes to limit variability of TAC related to the cut-bubble effect so that TAC can be directly compared between samples. However, inclusion of some fractures was often unavoidable and their contribution to gas loss is potentially large. TAC data were rejected when gas loss was believed to greatly impact the results, such as in samples with visible fractures or samples which consisted of multiple pieces. Of the 706 samples measured at OSU for TAC, 165 results were rejected based upon visual inspection of the sample. Many of these came from the 670-752.95 m (11.7-83 ka) interval where only 58 of 177 TAC measurements are considered reliable. Reproducibility of replicate TAC measurements is 0.7% after application of a correction for the cut-bubble effect (reproducibility of 0.6% without correction). Estimate of uncertainty of TAC measurements is 28% with the largest contributions to the uncertainty from the shape of the sample and the assumed bubble diameter used for the cut-bubble correction. The TAC record from the RICE ice core without the cut-bubble correction appears remarkably consistent (age weighted mean=0.1182 cc air-STP/g ice, age weighted standard deviation=0.0023 cc air-STP/g ice, n=410). After application of the cut-bubble correction, the TAC record shows a trend to higher values at more recent ages. This trend reflects the decrease of bubble size with depth and therefore a larger cut-bubble correction for shallower samples. Although this trend has a physical explanation, it is not statistically significant due to the uncertainty of the cut-bubble correction. We advise caution when interpreting the absolute values of TAC from the RICE ice core due to the potential artifacts caused by gas loss through fractures and the large uncertainty in the cut-bubble correction.
+
+Isotope ratios of O2 and N2 were measured on samples adjacent to the discrete methane samples. Analysis was conducted at Scripps Institution of Oceanography. Pooled standard deviation of replicate measurements is 0.006‰ for the 18O/16O of O2 and 0.0027‰ for 15N/14N of N2 (both relative to modern atmosphere). 
+
+The D/H ratio of ice was measured using off-axis integrated cavity output spectroscopy (OA-ICOS) using a
+Los Gatos Research (LGR) Isotope Water Analyzer (IWA-35EP) in combination with a modified LGR Water Vapor Isotope Standard Source (WVISS) evaporation unit. The data were calibrated using a time-weighted two point
+linear calibration with two standards. The cumulative uncertainty is calculated as the quadrature sum of Allan variance error, scatter over the averaging (15 second) interval (error of the variance) and calibration error (error of the mean). Final mean total uncertainty for the RICE D/H record is 0.74‰. The record has been smoothed with a
+500-yr low-pass filter (LOESS filter) and sampled at 50-year intervals. Depths are NaN at the deepest part of the core because the ice is no longer in stratigraphic order. The smoothed record is provided as a supplementary file.
+
+
+Content and processing steps:
+See files. 
+
+An automated curve matching technique was used to match the methane record from the Roosevelt Island Ice Core to the previously dated WAIS Divide ice core.  The algorithm is described in detail in Lee et al. ( Lee, J. E., Brook, E. J., Bertler, N. A. N., Buizert, C., Baisden, T., Blunier, T., Ciobanu, V. G., Conway, H., Dahl-Jensen, D., Fudge, T. J., Hindmarsh, R., Keller, E. D., Parrenin, F., Severinghaus, J. P., Vallelonga, P., Waddington, E. D., and Winstrup, M.: An 83 000 year old ice core from Roosevelt Island, Ross Sea, Antarctica, Clim. Past Discuss., https://doi.org/10.5194/cp-2018-68, 2018.
+
+Limitations and issues:
+
+
+Checkboxes:
+* All the data are referenced in time and space.
+* The data column, properties, and attributes listed/used in the data files are explained either in the description and/or the data files themselves.
+* Graphs and maps (if provided) have legends.
